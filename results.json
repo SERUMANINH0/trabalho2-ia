@@ -1,0 +1,1 @@
+{"acc": 0.8360655737704918, "n_train": 242, "n_test": 61, "n_total": 303, "cm": [[9, 5], [5, 42]], "top_features": ["exang", "age", "thalach", "oldpeak", "chol"]}
